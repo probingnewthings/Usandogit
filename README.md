@@ -1,3 +1,2 @@
 # Usandogit
-Para ir probando.
-Ahora vamos a ir modificando
+Para ir probando como se usa
