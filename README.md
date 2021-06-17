@@ -1,2 +1,2 @@
 # Usandogit
-para ir probando como se usa
+Para ir probando como se usa
